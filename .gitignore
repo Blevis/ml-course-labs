@@ -12,8 +12,11 @@ data/raw/
 *.parquet
 *.csv
 
+# project 1 files
+/taxi.py
+project-1/
+
 # OS and editor
 .DS_Store
 Thumbs.db
 .vscode/settings.json
-week-*/solution.ipynb
